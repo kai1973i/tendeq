@@ -36,8 +36,8 @@ dependencies:
   - libdeflate=1.22
   - libexpat=2.6.3
   - libffi=3.4.2
-  - libgfortran=5.0.0
-  - libgfortran5=13.2.0
+  - libgfortran=14.2.0
+  - libgfortran5=14.2.0
   - libgrpc=1.65.5
   - libjpeg-turbo=3.0.0
   - liblapack=3.9.0
